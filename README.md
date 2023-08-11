@@ -1,4 +1,4 @@
-[![logo](https://github.com/rohitd2103/Dice-Project/blob/main/png/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
+![logo](https://github.com/rohitd2103/Dice-Project/blob/main/png/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rohit Vikas Dadgal</h1>
 <img align="right"  height = "300px" alt="Coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif">
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=rohitd2103&label=Profile%20views&color=0e75b6&style=flat" alt="rohitd2103" /> </p>
